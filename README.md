@@ -13,5 +13,6 @@ c++ project to get user input in binary and change it to a decimal number.
 1. Open your terminal on **windows** os.
 2. Copy the executable file path: 
 ![Get File Path](/images/explanatoryImage1.png)
-3. in the terminal type in **cd \<the file path\>**.
-4. Finally run the program by typing **.\binary-decimal.exe**.
+3. in the terminal type in the partition where the executable file exists, in my case **F:**.
+4. Then type cd \<path of the executable in that partition\>, in my case `cd projectFolder`.
+5. Finally run the program by typing **binary-decimal.exe**.
