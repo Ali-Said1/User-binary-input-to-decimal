@@ -43,4 +43,6 @@ int main(){
         }
         std::cout << "The binary: 0b" << user_input << " in decimal form is: " << result;
     }
+
+    return 0;
 }
