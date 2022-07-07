@@ -39,7 +39,6 @@ int main(){
         //looping the reversed user input to add the value to result variable
         for(int i = 0; i < reversed.length(); i++){
             result += (reversed[i] -48) * pow(2, i);
-            std::cout << reversed[i] - 48 << " * " << pow(2, i) << " = " << (reversed[i] - 48) * pow(2, i)<< std::endl;
         }
         std::cout << "The binary: 0b" << user_input << " in decimal form is: " << result;
     }
